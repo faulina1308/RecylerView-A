@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="namaTextView" type="id" />
+    <item name="nama" type="id" />
+</resources>
